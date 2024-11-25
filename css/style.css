@@ -440,7 +440,7 @@ ul.social_icon li a:hover {
 
 .read_more {
      font-size: 17px;
-     background-color: #3e3f40;
+     background-color: #fa89e5;
      color: #fff;
      padding: 9px 0px;
      width: 100%;
@@ -453,7 +453,7 @@ ul.social_icon li a:hover {
 }
 
 .read_more:hover {
-     background: #456ef7;
+     background: #fa89e5;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -464,7 +464,7 @@ ul.social_icon li a:hover {
 .protien_main {
      padding-top: 80px;
      padding-bottom: 50px;
-     background-color: #f8f8f8;
+     background-color: #fa89e5;
      position: relative;
 }
 
@@ -491,7 +491,7 @@ ul.social_icon li a:hover {
      font-weight: 500;
      line-height: 25px;
      padding-bottom: 15px;
-     color: #262626;
+     color: #fa89e5;
      padding-top: 8px;
 }
 
@@ -499,7 +499,7 @@ ul.social_icon li a:hover {
      font-size: 20px;
      line-height: 24px;
      font-weight: 500;
-     color: #262626;
+     color: #fa89e5;
 }
 
 .mar_top {
