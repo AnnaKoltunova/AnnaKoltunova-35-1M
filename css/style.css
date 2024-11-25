@@ -99,7 +99,7 @@ h5 {
 }
 
 h6 {
-     font-size: 13px
+     font-size: 10px
 }
 
 *,
@@ -262,7 +262,7 @@ button {
 }
 
 .header_full_bg {
-     background: #fff;
+     background: #ffd6d6;
 }
 
 .header_top {
@@ -363,14 +363,14 @@ ul.social_icon li a {
      border-radius: 30px;
      margin: 0 3px;
      color: #fff;
-     background-color: #000000;
+     background-color: #ffd6d6;
      width: 32px;
      height: 32px;
 }
 
 ul.social_icon li a:hover {
      color: #fff;
-     background-color: #456ef7;
+     background-color: #ffd6d6;
 }
 
 
@@ -407,7 +407,7 @@ ul.social_icon li a:hover {
 }
 
 .get_btn:hover {
-     background: #456ef7;
+     background: #fa89e5;
      color: #fff;
 }
 
@@ -441,7 +441,7 @@ ul.social_icon li a:hover {
 .read_more {
      font-size: 17px;
      background-color: #fa89e5;
-     color: #fff;
+     color: #fa89e5;
      padding: 9px 0px;
      width: 100%;
      max-width: 194px;
@@ -454,7 +454,7 @@ ul.social_icon li a:hover {
 
 .read_more:hover {
      background: #fa89e5;
-     color: #fff;
+     color: #ffd6d6;
      transition: ease-in all 0.5s;
 }
 
@@ -518,7 +518,7 @@ ul.social_icon li a:hover {
 /** end team section **/
 
 .about {
-     background-color: #fff;
+     background-color: #ffd6d6;
      padding-top: 80px;
      position: relative;
 }
@@ -569,7 +569,7 @@ ul.social_icon li a:hover {
 }
 
 .growyhing .titlepage h2 {
-     font-size: 72px;
+     font-size: 65px;
      line-height: 90px;
      margin-bottom: 60px;
 }
@@ -616,13 +616,13 @@ ul.social_icon li a:hover {
 }
 
 .testimo_ban_bg {
-     background: #17c1eb;
+     background: #fa89e5;
 }
 
 .testimo_ban::before {
      position: absolute;
      content: "";
-     background: #fff;
+     background: #ffd6d6;
      width: 50px;
      height: 100%;
      top: 0;
@@ -641,14 +641,14 @@ ul.social_icon li a:hover {
 }
 
 .relative2 span {
-     color: #fff;
+     color: #ffd6d6;
      font-size: 24px;
      font-weight: 500;
      padding-left: 20px;
 }
 
 .relative2 p {
-     color: #fff;
+     color: #ffd6d6;
      padding-top: 40px;
 }
 
@@ -659,7 +659,7 @@ ul.social_icon li a:hover {
      background: #2e2d2d;
      opacity: 1;
      font-size: 20px;
-     color: #ffffff;
+     color: #ffd6d6;
      top: 39%;
 }
 
@@ -709,7 +709,7 @@ ul.social_icon li a:hover {
      margin-bottom: 20px;
      width: 100%;
      height: 40px;
-     background: #fff;
+     background: #ffd6d6;
      color: #363636;
      font-size: 18px;
      font-weight: normal;
@@ -719,7 +719,7 @@ ul.social_icon li a:hover {
 .main_form .textarea {
      border-bottom: #003471 solid 1px !important;
      width: 100%;
-     background: #fff;
+     background: #ffd6d6;
      color: #363636;
      font-size: 18px;
      font-weight: normal;
@@ -734,7 +734,7 @@ ul.social_icon li a:hover {
      transition: ease-in all 0.5s;
      background-color: #2e2d2d;
      text-transform: uppercase;
-     color: #fff;
+     color: #ffd6d6;
      padding: 12px 0px;
      max-width: 158px;
      width: 100%;
@@ -745,7 +745,7 @@ ul.social_icon li a:hover {
 }
 
 .main_form .send_btn:hover {
-     background-color: #10e678;
+     background-color: #fa89e5;
      transition: ease-in all 0.5s;
      color: #2e2d2d;
 }
@@ -771,7 +771,7 @@ ul.social_icon li a:hover {
      font-size: 17px;
      line-height: 19px;
      text-align: left;
-     color: #fff;
+     color: #fa89e5;
      padding-bottom: 12px;
      display: table;
 }
@@ -782,7 +782,7 @@ ul.social_icon li a:hover {
 
 .variat {
      padding-top: 30px;
-     color: #e3e3e3;
+     color: #ffd6d6;
      text-align: left;
      padding-right: 40px;
 }
@@ -802,7 +802,7 @@ ul.conta {
 }
 
 ul.conta li {
-     color: #fff;
+     color: #fa89e5;
      text-align: left;
      padding-bottom: 20px;
      font-size: 17px;
@@ -822,19 +822,19 @@ ul.conta li i {
 }
 
 ul.conta li a {
-     color: #fff;
+     color: #fa89e5;
 }
 
 ul.link_menu li {
      display: block;
      text-align: left;
      font-size: 14px;
-     color: #fff;
+     color: #fa89e5;
      line-height: 28px;
 }
 
 ul.link_menu li a {
-     color: #fff;
+     color: #fa89e5;
      font-size: 17px;
      line-height: 28px;
      display: block;
@@ -861,20 +861,20 @@ ul.social2_icon li a {
      border-radius: 30px;
      margin: 0 3px;
      color: #212121;
-     background-color: #fffdfd;
+     background-color: #ffd6d6;
      width: 32px;
      height: 32px;
 }
 
 ul.social2_icon li a:hover {
      color: #fff;
-     background-color: #456ef7;
+     background-color: #fa89e5;
 }
 
 .copyright {
      margin-top: 50px;
      padding-bottom: 20px;
-     background-color: #fff;
+     background-color: #ffd6d6;
      border-right: inherit;
      border-left: inherit;
 }
