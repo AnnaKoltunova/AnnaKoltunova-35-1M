@@ -9,9 +9,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,400,600,700,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Baloo+Chettan&display=swap');
+@import url ('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 
-/*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
- 2) font-family: 'Poppins', sans-serif;
+/*****---------------------------------------- 1) font-family: 'Caveat', sans-serif;
+ 2) font-family: 'Caveat', sans-serif;
  ----------------------------------------*****/
 
 
@@ -44,9 +45,9 @@ html {
 }
 
 body {
-     color: #ecd2fa;
+     color: ##ffd6d6;
      font-size: 14px;
-     font-family: 'Poppins', times new roman;
+     font-family: 'Caveat', times new roman;
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -79,7 +80,7 @@ h6 {
 }
 
 h1 {
-     font-size: 24px;
+     font-size: 26px;
 }
 
 h2 {
@@ -229,7 +230,7 @@ button {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #fa89e5;
+     background: #ffd6d6;
      width: 100%;
      height: 100%;
 }
@@ -407,8 +408,8 @@ ul.social_icon li a:hover {
 }
 
 .get_btn:hover {
-     background: #fa89e5;
-     color: #fff;
+     background: #151616;
+     color: #fa89e5;
 }
 
 .bann_img {
@@ -440,7 +441,7 @@ ul.social_icon li a:hover {
 
 .read_more {
      font-size: 17px;
-     background-color: #ffd6d6;
+     background-color: #151616;
      color: #fa89e5;
      padding: 9px 0px;
      width: 100%;
@@ -453,8 +454,8 @@ ul.social_icon li a:hover {
 }
 
 .read_more:hover {
-     background: #fa89e5;
-     color: #fff;
+     background: #151616;
+     color: #fa89e5;
      transition: ease-in all 0.5s;
 }
 
@@ -464,7 +465,7 @@ ul.social_icon li a:hover {
 .protien_main {
      padding-top: 80px;
      padding-bottom: 50px;
-     background-color: #fa89e5;
+     background-color: #ffd6d6;
      position: relative;
 }
 
